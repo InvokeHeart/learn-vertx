@@ -1,0 +1,13 @@
+{
+  "http": {
+    "port": 8082
+  },
+  "mysql": {
+    "host": "192.168.42.102",
+    "port": 3306,
+    "database": "security",
+    "username": "root",
+    "password": "882434"
+
+  }
+}
